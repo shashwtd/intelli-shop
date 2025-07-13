@@ -24,7 +24,7 @@
 - [TailwindCSS](https://tailwindcss.com/)
 - [Gemini](https://ai.google.dev)
 - [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
-- [Scraping/API integrations](TBA) (not decided yet)
+- Scraping/API integrations (not decided yet)
 
 ## 🧑‍💻 Local Setup Instructions
 
